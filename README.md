@@ -1,5 +1,4 @@
-[![nominate](https://img.shields.io/badge/Star-Nominate%20@banadhruva-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
-![skills](https://skillicons.dev/icons?i=html,css,js,ts,,nodejs,react,mongodb,mysql,py,docker,git,figma,bash,cloudflare,nginx,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,mongodb,mysql,py,docker,git,figma,bash,cloudflare,nginx,vscode&theme=light)
 <!--
 
 
