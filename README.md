@@ -1,4 +1,5 @@
 [![nominate](https://img.shields.io/badge/Star-Nominate%20@banadhruva-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
+[![Spotify](https://readme-spotify.banadhruva.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
 <!--
 
 
