@@ -48,9 +48,9 @@ I am a Computer Science student at **IK Gujral Punjab Technical University** wit
 * 📍 **Location**: Jalandhar, Punjab 
 
 ---
-![](https://github-readme-stats.vercel.app/api?username=banadhruva&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+# 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=banadhruva&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?banadhruva&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--
 
