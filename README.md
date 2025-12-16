@@ -1,4 +1,3 @@
-![skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,mongodb,mysql,py,docker,git,figma,bash,cloudflare,nginx,vscode&theme=light)
 
 # 👋 Hi, I'm Dhruv Bana
 
@@ -9,6 +8,9 @@ I am a Computer Science student at **IK Gujral Punjab Technical University with 
 ---
 
 ### 🛠️ Tech Stack & Skills
+
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,mongodb,mysql,py,docker,git,figma,bash,cloudflare,nginx,vscode&theme=light)
+
 
 **Languages & Core Tech**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
