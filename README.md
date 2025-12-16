@@ -9,7 +9,7 @@ I am a Computer Science student at **IK Gujral Punjab Technical University with 
 
 ### 🛠️ Tech Stack & Skills
 
-![skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,mongodb,mysql,py,docker,git,figma,bash,cloudflare,nginx,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,mongodb,mysql,py,docker,git,bash,cloudflare,vscode&theme=light)
 
 
 **Languages & Core Tech**
