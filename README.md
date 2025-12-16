@@ -3,7 +3,7 @@
 
 Aspiring ML Engineer | Full-Stack Developer | Geopolitics & Military Tech Enthusiast
 
-I am a Computer Science student at **IK Gujral Punjab Technical University with a passion for building intelligent systems and real-time applications. My focus lies at the intersection of **Data Science** and **Scalable Backend Development**.
+I am a Computer Science student at **IK Gujral Punjab Technical University** with a passion for building intelligent systems and real-time applications. My focus lies at the intersection of **Data Science** and **Scalable Backend Development**.
 
 ---
 
