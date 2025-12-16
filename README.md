@@ -1,5 +1,4 @@
-https://github-profile-trophy.vercel.app/banadhruva=ryo-ma&theme=oldie
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=banadhruva)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 
 
