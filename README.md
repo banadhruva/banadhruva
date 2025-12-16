@@ -49,9 +49,13 @@ I am a Computer Science student at **IK Gujral Punjab Technical University** wit
 
 ---
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=banadhruva&theme=shadow_blue&hide_border=false)<br/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=banadhruva&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=banadhruva&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <!--
 
 
