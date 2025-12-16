@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=banadhruva)](https://github.com/ryo-ma/github-profile-trophy)
+[![nominate](https://img.shields.io/badge/Star-Nominate%20@banadhruva-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
 <!--
 
 
