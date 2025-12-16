@@ -29,7 +29,7 @@ I am a Computer Science student at **IK Gujral Punjab Technical University with 
     * Developed a music streaming platform with **AI-powered user recommendations**.
     * Built with **Django REST Framework**, **WebSockets** for real-time communication, and **JWT** for secure logins.
 * **Personalized Laptop Assistant** 
-    * [cite_start]Created a desktop tool using **SpeechRecognition** and **PyAudio** with a custom **Tkinter UI**.
+    * Created a desktop tool using **SpeechRecognition** and **PyAudio** with a custom **Tkinter UI**.
 * **PII Extraction & Text Clustering**
     * Research-based project utilizing **Neural Networks** and clustering techniques.
 
