@@ -49,10 +49,13 @@ I am a Computer Science student at **IK Gujral Punjab Technical University** wit
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=banadhruva&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=banadhruva&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=banadhruva&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=banadhruva&theme=radical&hide_border=false&include_all_commits=true&count_private=false" height="160px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=banadhruva&theme=radical&hide_border=false" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banadhruva&theme=radical&hide_border=false&layout=compact" height="160px"/>
+</p>
 <!--
 
 
