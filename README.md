@@ -11,15 +11,66 @@ I am a Computer Science student at **IK Gujral Punjab Technical University** wit
 
 ![skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,mongodb,mysql,py,docker,git,bash,cloudflare,vscode&theme=light)
 
+## 🛠️ Tech Stack & Tools
 
-**Languages & Core Tech**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logoColor=white)
 
-**Web Development**
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
 
-**Machine Learning & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logoColor=white)
+
+---
+
+### ⚙️ Backend & APIs
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logoColor=white)
+
+---
+
+### 🗄️ Databases & ORM
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logoColor=white)
+![Django ORM](https://img.shields.io/badge/Django_ORM-092E20?style=for-the-badge&logoColor=white)
+
+---
+
+### 🤖 AI / Machine Learning
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_(Retrieval_Augmented_Generation)-6A5ACD?style=for-the-badge&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF6F00?style=for-the-badge&logoColor=white)
+
+---
+
+### 📄 Document & Data Processing
+![PDF Processing](https://img.shields.io/badge/PDF_Processing-FF0000?style=for-the-badge&logoColor=white)
+![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-0A192F?style=for-the-badge&logoColor=white)
+![Text Clustering](https://img.shields.io/badge/Text_Clustering-4CAF50?style=for-the-badge&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-607D8B?style=for-the-badge&logoColor=white)
+
+---
+
+### 🔐 Authentication & Security
+![Clerk](https://img.shields.io/badge/Clerk_Auth-6C47FF?style=for-the-badge&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logoColor=white)
+
+---
+
+### ☁️ DevOps & Tooling
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logoColor=white)
+![UploadThing](https://img.shields.io/badge/UploadThing-0F172A?style=for-the-badge&logoColor=white)
 
 ---
 
