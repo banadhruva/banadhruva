@@ -28,18 +28,18 @@ I am a Computer Science student at **IK Gujral Punjab Technical University** wit
 ## 🚀 Projects
 
 🎵 **Vibe-Tribe: Social Music & AI Recommendations**  
-Built a full-stack social music platform combining streaming with real-time interaction using **Django** and **React**.  
-Developed an ML-based recommendation engine using **K-Means clustering** and **cosine similarity** on audio features (energy, valence, tempo).  
-Implemented real-time music rooms and chat using **WebSockets (Django Channels)** with **JWT-based authentication**.
+- Built a full-stack social music platform combining streaming with real-time interaction using **Django** and **React**.  
+- Developed an ML-based recommendation engine using **K-Means clustering** and **cosine similarity** on audio features (energy, valence, tempo).  
+- Implemented real-time music rooms and chat using **WebSockets (Django Channels)** with **JWT-based authentication**.
 
 🩺 **Med-Vault: AI-Powered Medical Document SaaS**  
-Developed a **multi-tenant SaaS** platform for secure medical document storage and AI-driven document interaction.  
-Implemented **Retrieval-Augmented Generation (RAG)** using **LangChain** and **OpenAI** to enable context-aware chat over PDFs.  
-Designed a dual-pane interface with a high-fidelity PDF viewer and real-time AI chat, ensuring **user-level data isolation**.
+- Developed a **multi-tenant SaaS** platform for secure medical document storage and AI-driven document interaction.  
+- Implemented **Retrieval-Augmented Generation (RAG)** using **LangChain** and **OpenAI** to enable context-aware chat over PDFs.  
+- Designed a dual-pane interface with a high-fidelity PDF viewer and real-time AI chat, ensuring **user-level data isolation**.
 
 🔐 **PII Extraction & Text Clustering**  
-Built a research-focused pipeline for **PII extraction** and **text clustering** using **Neural Networks** and unsupervised learning.  
-Applied feature engineering and clustering techniques to improve sensitive data identification and segmentation.
+- Built a research-focused pipeline for **PII extraction** and **text clustering** using **Neural Networks** and unsupervised learning.  
+- Applied feature engineering and clustering techniques to improve sensitive data identification and segmentation.
 
 ---
 
