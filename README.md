@@ -25,13 +25,21 @@ I am a Computer Science student at **IK Gujral Punjab Technical University** wit
 
 ### 🚀 Featured Projects
 
-* **Vibe Tribe** 
-    * Developed a music streaming platform with **AI-powered user recommendations**.
-    * Built with **Django REST Framework**, **WebSockets** for real-time communication, and **JWT** for secure logins.
-* **Personalized Laptop Assistant** 
-    * Created a desktop tool using **SpeechRecognition** and **PyAudio** with a custom **Tkinter UI**.
-* **PII Extraction & Text Clustering**
-    * Research-based project utilizing **Neural Networks** and clustering techniques.
+## 🚀 Projects
+
+🎵 **Vibe-Tribe: Social Music & AI Recommendations**  
+Built a full-stack social music platform combining streaming with real-time interaction using **Django** and **React**.  
+Developed an ML-based recommendation engine using **K-Means clustering** and **cosine similarity** on audio features (energy, valence, tempo).  
+Implemented real-time music rooms and chat using **WebSockets (Django Channels)** with **JWT-based authentication**.
+
+🩺 **Med-Vault: AI-Powered Medical Document SaaS**  
+Developed a **multi-tenant SaaS** platform for secure medical document storage and AI-driven document interaction.  
+Implemented **Retrieval-Augmented Generation (RAG)** using **LangChain** and **OpenAI** to enable context-aware chat over PDFs.  
+Designed a dual-pane interface with a high-fidelity PDF viewer and real-time AI chat, ensuring **user-level data isolation**.
+
+🔐 **PII Extraction & Text Clustering**  
+Built a research-focused pipeline for **PII extraction** and **text clustering** using **Neural Networks** and unsupervised learning.  
+Applied feature engineering and clustering techniques to improve sensitive data identification and segmentation.
 
 ---
 
