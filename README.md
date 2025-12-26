@@ -1,9 +1,13 @@
 
 # 👋 Hi, I'm Dhruv Bana
 
-Aspiring ML Engineer | Full-Stack Developer | Geopolitics & Military Tech Enthusiast
+## 👋 About Me
 
-I am a Computer Science student at **IK Gujral Punjab Technical University** with a passion for building intelligent systems and real-time applications. My focus lies at the intersection of **Artificial Intelligence** and **Full Stack Development**.
+**Aspiring ML Engineer | Full-Stack Developer | Geopolitics & Military Tech Enthusiast**
+
+I am a Computer Science student at **IK Gujral Punjab Technical University** with a strong interest in building **intelligent, scalable, and real-time systems**. My work focuses on the intersection of **Machine Learning, AI-driven applications, and Full-Stack Development**.
+
+I enjoy designing **end-to-end products**—from data processing and model development to secure, production-ready web platforms. I’m particularly interested in **AI-powered SaaS systems, recommendation engines, real-time applications, and privacy-focused architectures**, with a growing curiosity for **geopolitics and modern military technologies**.
 
 ---
 
