@@ -70,8 +70,6 @@ I enjoy designing **end-to-end products**—from data processing and model devel
 
 ---
 
-### 🚀 Featured Projects
-
 ## 🚀 Projects
 
 🎵 **Vibe-Tribe: Social Music & AI Recommendations**  
