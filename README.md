@@ -53,14 +53,6 @@ I am a Computer Science student at **IK Gujral Punjab Technical University** wit
 
 ---
 
-### 📄 Document & Data Processing
-![PDF Processing](https://img.shields.io/badge/PDF_Processing-FF0000?style=for-the-badge&logoColor=white)
-![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-0A192F?style=for-the-badge&logoColor=white)
-![Text Clustering](https://img.shields.io/badge/Text_Clustering-4CAF50?style=for-the-badge&logoColor=white)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-607D8B?style=for-the-badge&logoColor=white)
-
----
-
 ### 🔐 Authentication & Security
 ![Clerk](https://img.shields.io/badge/Clerk_Auth-6C47FF?style=for-the-badge&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logoColor=white)
