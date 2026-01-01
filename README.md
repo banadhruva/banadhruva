@@ -90,9 +90,8 @@ I enjoy designing **end-to-end products**—from data processing and model devel
 
 ### 📈 Professional Experience
 
-* **Data Science Intern @ Vidhun ELearnify**: Deployed ML algorithms and built real-time data visualization systems using Seaborn and Matplotlib.
-* **Data Science Intern @ MedTourEasy**: Specialized in PII extraction from text and neural network implementations.
-
+* **SDE Intern @ Vidhun ELearnify**
+* **Data Science Intern @ MedTourEasy**
 ---
 
 ### 📫 Connect with Me
