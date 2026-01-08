@@ -90,8 +90,8 @@ I enjoy designing **end-to-end products**—from data processing and model devel
 
 ### 📈 Professional Experience
 
-* **SDE Intern @ Vidhun ELearnify**
-* **Data Science Intern @ MedTourEasy**
+* **Data Science Intern @ Vidhun ELearnify**
+* **Internship Trainee @ MedTourEasy**
 ---
 
 ### 📫 Connect with Me
