@@ -90,7 +90,9 @@ I enjoy designing **end-to-end products**—from data processing and model devel
 
 # 📊 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=banadhruva&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=banadhruva&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=banadhruva&theme=radical&hide_border=false" height="160px"/>
 </p>
