@@ -13,8 +13,7 @@ I am a Computer Science student at **IK Gujral Punjab Technical University** spe
 ---
 
 ## 🚀 The Digital Experience
-I recently launched my cinematic portfolio. It features a dual-branch narrative: **Meet the Developer** (Technical Stack & Projects) and **Meet the Man** (Leadership & Endurance).
-
+I recently launched my cinematic portfolio. 
 ✨ **Check it out here:** [banadhruva.vercel.app](https://banadhruva.vercel.app/)
 
 ---
@@ -55,7 +54,6 @@ I recently launched my cinematic portfolio. It features a dual-branch narrative:
 ---
 
 ## 🏔️ Behind the Screen
-When I'm not architecting code, I'm testing my mental and physical limits. I served as a **Contingent Commander** for the Jalandhar Grp at IGC-RDC and recently completed my first **Solo Trek** in Kheerganga.
 
 📺 **[Watch my Solo Trek Documentary](https://youtu.be/TPa-T2sFLfo?si=XBwPt5KA5Q8YnErM)**
 
