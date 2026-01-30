@@ -13,47 +13,69 @@ I am a Computer Science student at **IK Gujral Punjab Technical University** spe
 ---
 
 ## 🚀 The Digital Experience
-I recently launched my cinematic portfolio. 
+I recently launched my cinematic portfolio. It features a dual-branch narrative: **Meet the Developer** (Technical Stack & Projects) and **Meet the Man** (Leadership & Endurance).
+
 ✨ **Check it out here:** [banadhruva.vercel.app](https://banadhruva.vercel.app/)
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### 💻 Languages & AI
+### 💻 Languages & Core AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### 🌐 Frontend & Motion
+### 🌐 Frontend & Motion Architecture
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ### ⚙️ Backend & Infrastructure
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### 🚀 Deployment & Cloud Media
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
 🚀 **[Uni-Verse Portal](https://uni-verse-99.vercel.app/)**
-- High-performance university portal with **PGBouncer** session pooling and role-based access control.
+- Developed a high-performance **Full-Stack** university portal solving complex **IPv4-to-IPv6 networking** constraints.
+- Utilized **PGBouncer** session pooling for secure cloud database communication and optimized performance.
+- Implemented an **AI-Support Chatbot** and real-time event management with role-based access for coordinators.
+- **Tech:** Next.js, Node.js, PostgreSQL, Cloudinary, Vercel/Render.
 
 🎵 **[Vibe-Tribe](https://github.com/banadhruva/Vibe-Tribe)**
-- Social music platform using **K-Means clustering** for recommendations and **WebSockets** for real-time rooms.
+- Built a social music platform featuring an ML-based recommendation engine using **K-Means clustering** and **cosine similarity**.
+- Developed real-time music rooms and synchronized chat functionality using **WebSockets (Django Channels)**.
+- Integrated **JWT-based authentication** and audio feature extraction for personalized user feeds.
+- **Tech:** Django, React, WebSockets, Scikit-Learn.
 
 🩺 **[Med-Vault](https://github.com/banadhruva/Med-Vault)**
-- Multi-tenant SaaS with **RAG (Retrieval-Augmented Generation)** for AI-powered medical document interaction.
+- Engineered a **multi-tenant SaaS** for secure medical document storage and AI-driven document interaction.
+- Implemented **Retrieval-Augmented Generation (RAG)** using **LangChain** to enable context-aware chat over medical PDFs.
+- Designed a high-fidelity PDF viewer with **user-level data isolation** and secure cloud storage.
+- **Tech:** React, LangChain, OpenAI API, Supabase.
 
 ---
 
 ## 🏔️ Behind the Screen
+When I'm not architecting code, I'm testing my mental and physical limits. I served as a **Contingent Commander** for the Jalandhar Grp at IGC-RDC and recently completed my first **Solo Trek** in Kheerganga.
 
 📺 **[Watch my Solo Trek Documentary](https://youtu.be/TPa-T2sFLfo?si=XBwPt5KA5Q8YnErM)**
 
