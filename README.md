@@ -13,7 +13,7 @@ I am a Computer Science student at **IK Gujral Punjab Technical University** spe
 ---
 
 ## 🚀 The Digital Experience
-I recently launched my cinematic portfolio. It features a dual-branch narrative: **Meet the Developer** (Technical Stack & Projects) and **Meet the Man** (Leadership & Endurance).
+I recently launched my cinematic portfolio.
 
 ✨ **Check it out here:** [banadhruva.vercel.app](https://banadhruva.vercel.app/)
 
