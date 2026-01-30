@@ -75,7 +75,7 @@ I recently launched my cinematic portfolio.
 ---
 
 ## 🏔️ Behind the Screen
-When I'm not architecting code, I'm testing my mental and physical limits. I served as a **Contingent Commander** for the Jalandhar Grp at IGC-RDC and recently completed my first **Solo Trek** in Kheerganga.
+When I'm not architecting code, I'm testing my mental and physical limits. I recently completed my first **Solo Trek** at Beas Kund, Solang Valley.
 
 📺 **[Watch my Solo Trek Documentary](https://youtu.be/TPa-T2sFLfo?si=XBwPt5KA5Q8YnErM)**
 
