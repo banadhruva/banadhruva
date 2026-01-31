@@ -74,13 +74,6 @@ I recently launched my cinematic portfolio.
 
 ---
 
-## 🏔️ Behind the Screen
-When I'm not architecting code, I'm testing my mental and physical limits. I recently completed my first **Solo Trek** at Beas Kund, Solang Valley.
-
-📺 **[Watch my Solo Trek Documentary](https://youtu.be/TPa-T2sFLfo?si=XBwPt5KA5Q8YnErM)**
-
----
-
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=banadhruva&theme=radical&hide_border=false" height="160px"/>
