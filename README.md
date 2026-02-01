@@ -57,7 +57,7 @@ I recently launched my cinematic portfolio.
 🚀 **[Uni-Verse Portal](https://uni-verse-99.vercel.app/)**
 - Developed a high-performance **Full-Stack** university portal solving complex **IPv4-to-IPv6 networking** constraints.
 - Utilized **PGBouncer** session pooling for secure cloud database communication and optimized performance.
-- Implemented an **AI-Support Chatbot** and real-time event management with role-based access for coordinators.
+- Implemented an **RAG** based **AI-Support Chatbot** and real-time event management with role-based access for coordinators.
 - **Tech:** Next.js, Node.js, PostgreSQL, Cloudinary, Vercel/Render.
 
 🎵 **[Vibe-Tribe](https://github.com/banadhruva/Vibe-Tribe)**
