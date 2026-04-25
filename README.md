@@ -12,13 +12,6 @@ I am a Computer Science student at **IK Gujral Punjab Technical University** spe
 
 ---
 
-## 🚀 The Digital Experience
-I recently launched my cinematic portfolio.
-
-✨ **Check it out here:** [banadhruva.vercel.app](https://banadhruva.vercel.app/)
-
----
-
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 Languages & Core AI
